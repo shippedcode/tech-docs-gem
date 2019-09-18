@@ -1,7 +1,5 @@
 # Changelog
 
-## Unreleased
-
 ## 2.0.11
 
 ### Fixes
@@ -47,7 +45,6 @@ This release contains accessibility fixes:
 You can look at the [2.0.6 milestone](https://github.com/alphagov/tech-docs-gem/milestone/2?closed=1) for the closed issues, and [pull request #129: Accessibility improvements](https://github.com/alphagov/tech-docs-gem/pull/129) for details on how these issues were fixed.
 
 ## 2.0.5
-
 
 Adds [new global configuration option](https://github.com/alphagov/tech-docs-gem/pull/122) that controls whether review banners appear or not at the bottom of pages when expiry dates are set in the frontmatter.
 
